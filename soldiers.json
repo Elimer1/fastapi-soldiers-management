@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "full_name": "John Doe",
+    "personal_number": "1234567",
+    "rank": "Sergeant",
+    "role": "Squad leader",
+    "unit": "b",
+    "status": "Active"
+  }
+]
